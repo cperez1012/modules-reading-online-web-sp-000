@@ -11,6 +11,4 @@ class Dancer
     @name = name
   end
 end
-  extend FancyDance::ClassMethods
-  include FancyDance::InstanceMethods
-end
+
